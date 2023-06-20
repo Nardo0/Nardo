@@ -1,0 +1,44 @@
+{
+  "All_Products": [
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/990001268225359922/1008811682207899779/productimage_1.gif",
+      "productName": "Casey's",
+      "productPrice": "0.50"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/1008392983613288458/1021883376317235270/instacart.gif",
+      "productName": "Instacart",
+      "productPrice": "0.40"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/1008392983613288458/1034576110182215690/groupon.gif",
+      "productName": "Groupon",
+      "productPrice": "0.25"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/969048974919102464/1013161353105637417/meijer.gif",
+      "productName": "Mejier",
+      "productPrice": "0.50"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/990001268225359922/1008811682207899779/productimage_1.gif",
+      "productName": "Casey's",
+      "productPrice": "0.50"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/1008392983613288458/1021883376317235270/instacart.gif",
+      "productName": "Instacart",
+      "productPrice": "0.40"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/1008392983613288458/1034576110182215690/groupon.gif",
+      "productName": "Groupon",
+      "productPrice": "0.25"
+    },
+    {
+      "imageLink": "https://cdn.discordapp.com/attachments/969048974919102464/1013161353105637417/meijer.gif",
+      "productName": "Mejier",
+      "productPrice": "0.50"
+    }
+  ]
+}
