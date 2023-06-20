@@ -172,7 +172,7 @@ export default function Home() {
           width={1000}
           height={1000}
           alt="offical banner image"
-          src={"https://s8.gifyu.com/images/Banner9799d5c16c4ff9d5.gif"}
+          src={"https://s12.gifyu.com/images/SQmAx.gif"}
         />
       </div>
       {/* Search Bar */}
