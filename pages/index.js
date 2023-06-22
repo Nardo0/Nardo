@@ -28,7 +28,6 @@ const FilteredCategory = {
   food: [
     "iHop",
     "Jersey Mikes",
-    "test",
     "Sonic Drive-In",
     "Buffalo Wild Wings",
     "Smoothie King",
