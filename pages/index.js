@@ -29,6 +29,7 @@ const FilteredCategory = {
     "iHop",
     "Jersey Mikes",
     "Sonic Drive-In",
+    "StubHub",
     "Buffalo Wild Wings",
     "Smoothie King",
     "Subway",
