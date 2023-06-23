@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 export default async function handler(req, res) {
   const SellixApi = "https://dev.sellix.io/v1/groups";
   const SellixKey =
-    "PMxKMN5seLEOA3DiDcQlnZMsqtCqDLYdkLzbNlsnJ3u6tgMxRmhBf8QKetRz0Ckn";
+    "ZRfBhRG2RKqOgFeoRkMypHzIVwFbCD7cODS3nLee9RK35YnAWqueSlNYpxom4lnM";
 
   // const SellixKey =
   //   "uc8kzuIfp7d5quRb5pQJzdsnEoRajr8kDqqAfH5Wg10iK9Ro1Udj8JaCwUW9ACdD";
