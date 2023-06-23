@@ -19,7 +19,6 @@ const FilteredCategory = {
     "Instacart",
     "Groupon",
     "Stop&Shop",
-    "PriceLine",
     "Casey's",
     "Mejier",
     "StubHub",
@@ -59,7 +58,7 @@ const FilteredCategory = {
     "theCut",
     "Five Below",
   ],
-  travel: ["Booking.com", "MGM Resorts", "Hertz", "Frontier Airlines"],
+  travel: ["Booking.com", "PriceLine", "MGM Resorts", "Hertz", "Frontier Airlines"],
   streaming: [
     "DAZN",
     "Crunchyroll",
