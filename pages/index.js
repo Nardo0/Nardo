@@ -18,6 +18,8 @@ const FilteredCategory = {
   topProducts: [
     "Instacart",
     "Groupon",
+    "Stop&Shop",
+    "PriceLine",
     "Casey's",
     "Mejier",
     "StubHub",
