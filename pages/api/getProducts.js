@@ -6,7 +6,7 @@ export default async function handler(req, res) {
     "ZRfBhRG2RKqOgFeoRkMypHzIVwFbCD7cODS3nLee9RK35YnAWqueSlNYpxom4lnM";
 
   // const SellixKey =
-  //   "uc8kzuIfp7d5quRb5pQJzdsnEoRajr8kDqqAfH5Wg10iK9Ro1Udj8JaCwUW9ACdD";
+  //   "ZRfBhRG2RKqOgFeoRkMypHzIVwFbCD7cODS3nLee9RK35YnAWqueSlNYpxom4lnM";
 
   const response = await fetch(SellixApi, {
     method: "GET",
